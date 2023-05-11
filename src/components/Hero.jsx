@@ -20,7 +20,7 @@ export default function Hero() {
                     <h1 className=' text-white mx-auto text-center text-[34px] sm:text-[44px] md:text-[54px]'>Flutter <span className=' text-[#7127BA] mx-auto text-center font-Poppins text-[34px] sm:text-[44px] md:text-[60px]'>& </span>
                         React Js Developer</h1>
 
-                    <h1 className='text-center  m-0 md:m-2'>Currently a 3rd year student in Vellore Institute of Technology. From very early on in my life, I have been interested in technology and computers. Hence, I am currently pursuing this interest as a Computer Science student. </h1>
+                    <h1 className='text-center  m-2 md:m-2'>Currently a 3rd year student in Vellore Institute of Technology. From very early on in my life, I have been interested in technology and computers. Hence, I am currently pursuing this interest as a Computer Science student. </h1>
 
                     <div className='container  flex-none pt-2 text-center'>
                         <button className=" mx-5 rounded bg-[#7127BA] px-2 py-2">View projects</button>
