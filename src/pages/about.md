@@ -23,7 +23,7 @@ Transitioning from app development to mastering backend technologies and scalabl
 
 ### Open Source Contributions
 
-I've contributed to open-source projects, bringing transparency to card selection in [CATIMALOYALTY/ANDROID](https://github.com/CATIMALOYALTY/ANDROID).
+I've contributed to open-source projects, bringing transparency to card selection in [CATIMALOYALTY/ANDROID](https://github.com/CatimaLoyalty/Android/issues/706#event-7041179979).
 
 ### Education
 
@@ -35,9 +35,9 @@ In my internships and roles, I've developed diverse applications, including a mo
 
 ### Projects
 
-- **[Twitter Sentiment Backend Microservices](https://github.com/samarthasthan/twitter-sentiment-backend):** Engineered a robust backend service for Twitter Sentiment Analysis using Golang, Kafka, gRPC, and Go-Fiber, focusing on scalability and flexibility.
-- **[bitShrink Image Compressor](https://github.com/samarthasthan/bitshrink-image-compressor):** Developed and launched bitShrink, an image compression tool, utilizing Electron.js for desktop and Next.js for the website.
-- **[E-Commerce App with Flutter and FastAPI](https://github.com/samarthasthan/flutter-fastapi-ecommerce):** Created an e-commerce app with Flutter and GetX, integrating FastAPI and MySQL for backend services.
+- **[Twitter Sentiment Backend Microservices](https://github.com/samarthasthan/twitter-sentiments):** Engineered a robust backend service for Twitter Sentiment Analysis using Golang, Kafka, gRPC, and Go-Fiber, focusing on scalability and flexibility.
+- **[bitShrink Image Compressor](https://github.com/samarthasthan/compresstool):** Developed and launched bitShrink, an image compression tool, utilizing Electron.js for desktop and Next.js for the website. [Try it](https://bitshrink.samarthasthan.com/)
+- **[E-Commerce App with Flutter and FastAPI](https://github.com/samarthasthan/ecommerceapp):** Created an e-commerce app with Flutter and GetX, integrating FastAPI and MySQL for backend services.
 
 ### Achievements
 
