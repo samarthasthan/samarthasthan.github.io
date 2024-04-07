@@ -9,6 +9,7 @@ import Card from "@components/Card";
 import Socials from "@components/Socials.astro";
 import getSortedPosts from "@utils/getSortedPosts";
 import { SOCIALS } from "@config";
+import { Schema } from "astro-seo-schema";
 
 const posts = await getCollection("blog");
 
@@ -20,6 +21,23 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 ---
 
 <Layout>
+  <Schema
+    item={{
+      "@context": "https://schema.org",
+      "@type": "Person",
+      name: "Samarth Asthan",
+      alternateName: "Samarth Yadav Asthan",
+      alumniOf: {
+        "@type": "CollegeOrUniversity",
+        name: ["Vellore Institute of Technology"],
+      },
+      familyName: "Yadav",
+      knowsAbout: ["Backend Development", "Computer Science"],
+      url: "https://samarthasthan.com/",
+      image:
+        "https://media.licdn.com/dms/image/C4D03AQH7nD5jgTYpUw/profile-displayphoto-shrink_400_400/0/1661285519397?e=2147483647&v=beta&t=Dr8TIfRUayq2w8l197wHYj_0XlkYbuCPqocY8HLKeL4",
+    }}
+  />
   <Header />
   <section id="main-content">
     <section id="hero">
