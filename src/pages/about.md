@@ -27,7 +27,7 @@ I've contributed to open-source projects, bringing transparency to card selectio
 
 ### Education
 
-I hold a Bachelor's degree in Computer Science from Vellore Institute of Technology, with a CGPA of 8.14.
+I hold a Bachelor's degree in Computer Science from Vellore Institute of Technology.
 
 ### Experience
 
