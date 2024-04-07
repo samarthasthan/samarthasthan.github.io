@@ -4,7 +4,7 @@ pubDatetime: 2023-11-21T09:12:47.400Z
 modDatetime: 2023-11-21T09:12:47.400Z
 title: Building a Scalable E-commerce Empire- A Micro-services System Design Approach
 slug: building-a-scalable-e-commerce-empire-a-micro-services-system-design-approach
-featured: true
+featured: false
 draft: false
 tags:
   - E-commerce
