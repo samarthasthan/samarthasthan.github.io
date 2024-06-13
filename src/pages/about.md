@@ -9,8 +9,8 @@ Transitioning from app development to mastering backend technologies and scalabl
 
 **Programming:**
 
-- **Languages:** GO (GoLang), C++, JavaScript, Python, Java
-- **Technologies:** Apache Kafka, gRPC, Nginx, CI/CD, Grafana, Prometheus, Loki, Jaeger
+- **Languages:** GO (GoLang),JavaScript, Java, C++, Python
+- **Technologies:** Apache Kafka, gRPC, Nginx, CI/CD, Grafana, Prometheus, Loki, Zipkin
 - **Web Development:** HTML, CSS, React JS, Next JS, Flutter, GetX
 - **Databases:** MySQL, MongoDB, Redis
 - **Cloud Technologies:** Docker, Kubernetes, AWS EC2, S3 Bucket, Lightsail

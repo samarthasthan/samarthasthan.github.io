@@ -11,7 +11,7 @@ tags:
   - System deisgn
   - Distributed Systems
   - Microservices
-description: Learn about micro-services and how they play a crucial role in building robust and scalable e-commerce platforms.
+description: Hey everyone! I’m Samarth Asthan, a 3rd-year computer science student, and I’m new to the world of system design. But, I’m excited to share what I’ve learned about micro-services and how they play a crucial role in building robust and scalable e-commerce platforms.
 ---
 
 Hey everyone! I’m Samarth Asthan, a 3rd-year computer science student, and I’m new to the world of system design. But, I’m excited to share what I’ve learned about micro-services and how they play a crucial role in building robust and scalable e-commerce platforms.

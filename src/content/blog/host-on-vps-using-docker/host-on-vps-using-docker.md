@@ -15,7 +15,7 @@ tags:
   - AWS
   - Go
   - GoLang
-description: Learn about micro-services and how they play a crucial role in building robust and scalable e-commerce platforms.
+description: Today, we will learn how to host any web application on a VPS (Virtual Private Server) using Docker. By leveraging Docker containers, we can deploy our web application without the need for traditional web servers like Nginx or Apache.
 ---
 
 Today, we will learn how to host any web application on a VPS (Virtual Private Server) using Docker. By leveraging Docker containers, we can deploy our web application without the need for traditional web servers like Nginx or Apache.

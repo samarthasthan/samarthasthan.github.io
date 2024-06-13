@@ -3,9 +3,10 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://samarthasthan.com/", // replace this with your deployed domain
   author: "Samarth Asthan",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "Transitioning from app development to mastering backend technologies and scalable microservices, I am Samarth Asthan—a passionate software engineer with a knack for innovation and problem-solving.",
   title: "Samarth Asthan",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "samarthasthan.com.png",
+  twitterHandle: "@samarthasthan",
   lightAndDarkMode: true,
   postPerPage: 5,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
